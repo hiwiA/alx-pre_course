@@ -1,7 +1,8 @@
 git init
 git add .
-git commit -m "any text here"
+git commit -m "text"
 git remote add origin https://github.com/yourusername/your-repo-name.git
-git push origin master
+git push orgin master
+git pull
 git branch 
-git checkout <branchname>
+git chekout
