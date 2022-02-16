@@ -1,0 +1,8 @@
+git init
+git add
+git commit -m "anything"
+git remote add origin https://github.com/yourusername/your-repo-name.git
+git push origin master
+git branch
+git checkout 
+
